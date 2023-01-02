@@ -6,7 +6,7 @@
 ### ✏️ I’m currently learning C++, JavaScript, and SQL
 - I am fluent in C and Python 🐍
 
-### 📜 I love to learn, and plan on expanding my knowledge on multiple technoligies this year
+### 📜 I love to learn, and plan on expanding my knowledge on multiple technologies this year
 - I will be learning react.js and other java script frameworks. I hope to have a portfolio website built by April 2023
 
 ### 🌐 Add me on discord Tango404#0731
