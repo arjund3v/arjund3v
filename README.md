@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @Tango404</h1>
+<h1 align="center">👋 Hi, I’m Arjun</h1>
 
 ### 🖥️ I’m a first year computer science student
 - I am an 18 year old Canadian student studying computer science, I have always been intruiged by computers, and did a lot of scripting for discord bots, FiveM game scripts, and 3D modelling!
