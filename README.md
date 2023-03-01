@@ -4,7 +4,7 @@
 - I am an 18 year old Canadian student studying computer science, I have always been intruiged by computers, and did a lot of scripting for discord bots, FiveM game scripts, and 3D modelling!
 
 ### ✏️ I’m currently learning C++, JavaScript, and SQL
-- I am fluent in C and Python 🐍
+- I am in the process of learning C++, JS, and Oracle SQL. I plan to extend my knowledge on these technologies and create projects based on these technologies in the near future
 
 ### 📜 I love to learn, and plan on expanding my knowledge on multiple technologies this year
 - I will be learning React.js and other JavaScript frameworks. I hope to have a portfolio website built by April 2023
