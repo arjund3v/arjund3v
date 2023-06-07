@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Arjun</h1>
 
 ### 🖥️ I’m a first year computer science student
-- I am an 18 year old Canadian student studying computer science, I have always been intruiged by computers, and did a lot of scripting for discord bots, game scripts, and 3D modelling! I am always looking for opportunities to learn, my life practically revolves around technology nowadays.
+- I am an 19 year old Canadian student studying computer science, I have always been intruiged by computers, and did a lot of scripting for discord bots, game scripts, and 3D modelling! I am always looking for opportunities to learn, my life practically revolves around technology nowadays.
 
 ### ✏️ I’m currently learning C++, JavaScript, and SQL
 - I am in the process of learning C++, JS, and Oracle SQL. I plan to extend my knowledge on these technologies and create projects based on these technologies in the near future
