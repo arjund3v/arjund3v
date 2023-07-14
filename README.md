@@ -6,7 +6,7 @@
 
 </br>
 <div style="display: flex; justify-content: center;">
-  <img class="img" src="https://streak-stats.demolab.com/?user=tango404&theme=javascript" />
+  <img class="img" src="https://streak-stats.demolab.com/?user=arjunsainiii&theme=javascript" />
 </div>
 </br>
 
