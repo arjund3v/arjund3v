@@ -1,19 +1,46 @@
-<h1 align="center">👋 Hi, I’m Arjun</h1>
+# Hi there, I'm Arjun 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][Github]
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)][Leetcode]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
 
-### 🖥️ I’m a first year computer science student
-- I am an 19 year old Canadian student studying computer science, I have always been intruiged by computers, and did a lot of scripting for discord bots, game scripts, and 3D modelling! I am always looking for opportunities to learn, my life practically revolves around technology nowadays.
+</br>
+<div style="display: flex; justify-content: center;">
+  <img class="img" src="https://streak-stats.demolab.com/?user=tango404&theme=javascript" />
+</div>
+</br>
 
-### ✏️ I’m currently learning C++, JavaScript, and SQL
-- I am in the process of learning C++, JS, and Oracle SQL. I plan to extend my knowledge on these technologies and create projects based on these technologies in the near future
+## 👨‍💻 I'm a Student, Developer, and Friend
+- 💡 I love to learn new things everyday
+- 👨‍💻 I keep up with the latest technologies
+- 💭 Huge problem solver
 
-### 📜 I love to learn, and plan on expanding my knowledge on multiple technologies this year
-- I will be learning React.js and other JavaScript frameworks. I hope to have a portfolio website built by April 2023
+</br>
 
-### 🌐 Contact me!
-- Discord (Tango404#0731)
-- Email (Arjuns1026@gmail.com)
+## 🥞 My Tech Stack
 
-<!---
-Tango404/Tango404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 Languages
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### ⚙️ Frameworks / 📚 Libraries / 🥞 Databases
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</br>
+
+
+
+[Gmail]: Arjuns1026@gmail.com
+[Github]: https://github.com/Tango404
+[Leetcode]: https://leetcode.com/ArjunSainiii/
+[Linkedin]: https://www.linkedin.com/in/arjunsaini26/
