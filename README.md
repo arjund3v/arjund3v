@@ -1,11 +1,14 @@
-# Hi there, I'm Arjun 🍋
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][Github]
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)][Leetcode]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Linkedin]
+<h1 align="center"> Hi there, I'm Arjun 🍋 </h1>
+<div align="center">
+  <a href="Arjuns1026@gmail.com"> <img class="img" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="https://github.com/Arjunsainiii"> <img class="img" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+  <a href="https://leetcode.com/ArjunSainiii/"> <img class="img" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
+  <a href="https://www.linkedin.com/in/arjunsaini26/"> <img class="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
 
 </br>
-<div style="display: flex; justify-content: center;">
+
+<div align="center">
   <img class="img" src="https://streak-stats.demolab.com/?user=arjunsainiii&theme=javascript" />
 </div>
 </br>
@@ -37,10 +40,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </br>
-
-
-
-[Gmail]: Arjuns1026@gmail.com
-[Github]: https://github.com/Tango404
-[Leetcode]: https://leetcode.com/ArjunSainiii/
-[Linkedin]: https://www.linkedin.com/in/arjunsaini26/
