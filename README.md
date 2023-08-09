@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">
-  <img class="img" src="https://streak-stats.demolab.com/?user=arjunsainiii&theme=javascript" />
+  <img class="img" src="https://streak-stats.demolab.com?user=arjunsainiii&theme=vue&mode=weekly" />
 </div>
 </br>
 
