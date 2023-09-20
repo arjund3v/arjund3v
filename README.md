@@ -2,7 +2,7 @@
 <div align="center">
   <a href="Arjuns1026@gmail.com"> <img class="img" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://github.com/arjund3v"> <img class="img" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <a href="https://leetcode.com/ArjunSainiii/"> <img class="img" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
+  <a href="https://leetcode.com/Arjund3v/"> <img class="img" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
   <a href="https://www.linkedin.com/in/arjund3v/"> <img class="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
