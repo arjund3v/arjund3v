@@ -16,7 +16,7 @@
 ## 👨‍💻 I'm a Student, Developer, and Friend
 - 💡 I love to learn new things everyday
 - 👨‍💻 I keep up with the latest technologies
-- 💭 Huge problem solver
+- 💭 Avid problem solver
 
 </br>
 
