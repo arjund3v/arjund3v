@@ -13,7 +13,7 @@
 </div>
 </br>
 
-## 👨‍💻 I'm a Student, Developer, and Friend
+## 👨‍💻 I'm a Student, and Software Developer
 - 💡 I love to learn new things everyday
 - 👨‍💻 I keep up with the latest technologies
 - 💭 Avid problem solver
