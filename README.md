@@ -10,6 +10,7 @@
 
 <div align="center">
   <img class="img" src="https://streak-stats.demolab.com?user=arjund3v&theme=react&mode=weekly" />
+  <img class="img" src="https://leetcard.jacoblin.cool/Arjund3v?theme=wtf" />
 </div>
 </br>
 
